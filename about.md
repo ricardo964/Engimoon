@@ -6,4 +6,4 @@ permalink: /about/
 
 ### More Information
 
-Richard Feyman y Alan Turing
+Richard Feyman and Alan Turing
